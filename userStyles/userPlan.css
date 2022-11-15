@@ -1,0 +1,189 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#user_plan_a1 {
+  display: block;
+  margin-left: 15%;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  text-decoration: none;
+  color: #5889b4;
+}
+#user_plan_a1:hover {
+  text-decoration: underline;
+}
+
+#user_plan_h1 {
+  font-family: National2, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-weight: 300; */
+
+  text-align: center;
+  margin: auto;
+}
+#user_plan_div {
+  text-align: center;
+  color: #00bf6f;
+}
+
+#user_plan_individual_div {
+  width: 70%;
+  margin: auto;
+  border: 0px solid red;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  /* position: relative; */
+}
+#user_plan_individual_div > div {
+  border: 1px solid rgb(191, 195, 191);
+  text-align: center;
+
+  /* margin-top: 10px; */
+
+  padding-bottom: 20px;
+}
+#user_plan_individual_div > div > h3 {
+  margin-top: 60px;
+  font-family: "National2", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#user_plan_individual_div > div > p {
+  font-weight: 600;
+  color: #6b787f;
+}
+#user_plan_individual_div > div:nth-child(2) > button {
+  border: none;
+  background-color: #05467e;
+  color: white;
+  padding: 8px;
+  width: 80%;
+  font-weight: 700;
+}
+#user_plan_individual_div > div:nth-child(3) > button {
+  border: none;
+  background-color: #00bf6f;
+  color: white;
+  padding: 8px;
+  width: 80%;
+  font-weight: 700;
+  margin-top: 14px;
+}
+#user_plan_individual_div > div:nth-child(4) > button {
+  border: none;
+  background-color: #2dccd3;
+  color: white;
+  padding: 8px;
+  width: 80%;
+  font-weight: 700;
+  margin-top: 33px;
+}
+
+#user_plan_individual_div > div:nth-child(5) > button {
+  border: none;
+  background-color: #6b787f;
+  color: white;
+  padding: 8px;
+  width: 80%;
+  font-weight: 700;
+}
+#user_plan_individual_div > div:first-child > p {
+  margin-top: 170px;
+  margin-bottom: 8px;
+  color: #5889b4;
+}
+#user_plan_individual_div > div:nth-child(3) {
+  border: 3px solid #00bf6f;
+}
+#user_plan_individual_div > div:nth-child(3) > h4 {
+  margin-bottom: 10px;
+  color: white;
+  margin-top: 0px;
+  /* margin-bottom: 20px; */
+  background-color: #00bf6f;
+  width: 100%;
+  padding: 10px;
+}
+#user_plan_individual_div > div:nth-child(3) > h3 {
+  margin-top: 20px;
+}
+#user_plan_table > div {
+  border: 0px solid;
+
+  width: 70%;
+  margin: auto;
+  margin-top: 10px;
+}
+* {
+  box-sizing: border-box;
+}
+#user_plan_table {
+  /* margin-top: 100px; */
+  /* height: 50vh;
+        overflow:scroll; */
+}
+#user_plan_table > div {
+}
+#user_plan_table > div > div {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f4f5f5;
+  border: 0px solid orange;
+}
+#user_plan_table > div > div > h2 {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: -0.5px;
+  background-color: #f4f5f5;
+  padding-bottom: 3px;
+  padding-left: 4px;
+  padding-right: 8px;
+}
+#user_plan_table > div > table {
+  /* 
+      */
+}
+#user_plan_table > div > table > tbody > tr {
+  padding: 15px;
+  text-align: center;
+  border-collapse: collapse;
+
+  border: 1px solid rgb(233, 238, 238);
+}
+#user_plan_table > div > table > tbody tr > td {
+  width: 20%;
+  padding: 15px;
+  text-align: center;
+  border-collapse: collapse;
+
+  border: 1px solid rgb(233, 238, 238);
+}
+#user_plan_table > div > table > tbody tr > td:nth-child(3) {
+  background-color: #00bf6f;
+}
+#user_plan_table + p {
+  margin-left: 15%;
+  color: #6b787f;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+#user_plan_table + p + h1 {
+  text-align: center;
+}
+#user_plan_bottom_div {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  border: 0px solid yellow;
+  justify-content: space-between;
+}
+#user_plan_bottom_div > div {
+  width: 45%;
+  font-size: 17px;
+  line-height: 30px;
+  font-family: "National2", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#user_plan_bottom_div > div > p {
+  /* line-height: 30px; */
+  font-size: 14px;
+}

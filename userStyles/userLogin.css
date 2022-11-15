@@ -1,0 +1,111 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form {
+  border: 1px solid black;
+  width: 30%;
+  margin: auto;
+  margin-top: 8%;
+  text-align: center;
+  padding: 3%;
+}
+form > div {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 10px;
+  width: 85%;
+  margin: auto;
+  margin-top: 6%;
+}
+form > div > input {
+  padding: 3%;
+  font-size: medium;
+}
+form > div > input:last-child {
+  border: none;
+  background-color: #00bf6f;
+  color: white;
+  cursor: pointer;
+  width: 30%;
+  margin: auto;
+}
+form > div > input:last-child:hover {
+  background-color: #02d47d;
+}
+#head {
+  background-color: #00bf6f;
+  position: relative;
+  padding: 1.5%;
+}
+#head > button {
+  margin-left: 2%;
+  padding: 1%;
+  font-size: medium;
+  cursor: pointer;
+}
+#loader {
+  background-color: #00bf6f;
+  height: 5px;
+  /* animation: loading ease-in-out 5s;*/
+  display: none;
+}
+
+@keyframes loading {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@media all and (max-width: 650px) {
+  #head {
+    padding: 4%;
+  }
+  form {
+    width: 75%;
+    margin: auto;
+    margin-top: 15%;
+    padding: 6% 5%;
+  }
+  form > div {
+    gap: 13px;
+  }
+}
+@media all and (min-width: 651px) and (max-width: 800px) {
+  #head {
+    padding: 3%;
+  }
+  #head > button {
+    padding: 1.5%;
+  }
+  form {
+    width: 60%;
+    margin: auto;
+    margin-top: 15%;
+    padding: 6% 5%;
+  }
+  form > div {
+    gap: 13px;
+  }
+}
+@media all and (min-width: 801px) and (max-width: 1000px) {
+  #head {
+    padding: 1.5%;
+  }
+  #head > button {
+    padding: 1%;
+  }
+  form {
+    width: 45%;
+    margin: auto;
+    margin-top: 10%;
+    padding: 6% 5%;
+  }
+  form > div {
+    gap: 13px;
+  }
+}

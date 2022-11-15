@@ -1,0 +1,103 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+  width: 35%;
+  margin: auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px 30px;
+}
+#container > h3 {
+  font-family: "National 2", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans",
+    "MS Gothic", "sans-serif";
+  text-align: right;
+}
+#container > h3 > a {
+  text-decoration: none;
+  color: #007faa;
+}
+#container > h3 + p {
+  font-size: 40px;
+  font-family: "National 2", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans",
+    "MS Gothic", "sans-serif";
+}
+
+* {
+  box-sizing: border-box;
+}
+#form {
+  border: 0px solid;
+}
+#container > #form > input {
+  display: block;
+  margin-top: 20px;
+  width: 100%;
+  border: 1px solid #007faa;
+  padding: 15px 20px;
+  font-size: 20px;
+  outline: none;
+}
+input[type="checkbox"] {
+  width: 34px;
+  height: 34px;
+
+  display: block;
+}
+#checkbox1 {
+  margin-top: 11px;
+}
+#checkbox2 {
+  margin-top: 27px;
+}
+#container > .box {
+  margin-top: 10px;
+  border: 0px solid;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+#container > .box > div:last-child {
+  border: 0px solid;
+  font-size: 16px;
+  grid-area: 1/2/2/7;
+}
+
+#container > button {
+  margin-top: 15px;
+  width: 100%;
+  font-size: 20px;
+  padding: 15px;
+}
+hr {
+  width: 100%;
+
+  border: 1px solid black;
+  margin-top: 20px;
+}
+hr + p {
+  font-family: "National 2", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans",
+    "MS Gothic", "sans-serif";
+  font-size: 20px;
+}
+img {
+  width: 100%;
+}
+#container > div > button {
+  display: block;
+  margin: 13px;
+  border: none;
+}
+#container > div > button:last-child > img {
+  display: block;
+  width: 100%;
+}
+
+div + button {
+  background-color: #00bf6f;
+  border: none;
+}
+#container > #div_logo {
+  display: flex;
+}
+div + button:hover {
+  background-color: #047d31;
+}

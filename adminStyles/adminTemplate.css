@@ -1,0 +1,377 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #008e53;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#admin_create_template_body {
+  padding: 10px;
+  background-color: #008e53;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* CSS for overall template */
+
+#admin_create_template {
+  text-transform: uppercase;
+  color: #00bf6f;
+  font-size: 10px;
+  background-color: #f5f5f5;
+  padding: 20px;
+  width: 50%;
+  border-radius: 10px;
+}
+
+#admin_create_template_heading {
+  text-align: center;
+  font-size: 25px;
+}
+
+/* CSS for overall template input */
+
+#admin_create_template input {
+  width: 100%;
+  padding: 8px;
+  font-size: 15px;
+  text-transform: initial;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+#admin_create_template input:focus,
+textarea:focus,
+select:focus {
+  outline: 1px solid #00bf6f;
+  box-shadow: 0 0 5px #008e53;
+}
+
+/* CSS for overall template textarea */
+
+#admin_create_template textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 15px;
+  text-transform: initial;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  resize: vertical;
+  border: 1px solid gray;
+}
+
+/* CSS for overall template select */
+
+#admin_create_template select {
+  width: 100%;
+  padding: 8px;
+  font-size: 15px;
+  text-transform: initial;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+/* CSS for overall template buttons */
+
+#admin_create_template button {
+  width: 40%;
+  padding: 15px 20px;
+  font-size: 15px;
+  text-transform: initial;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #f9be00;
+  border: none;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.1s ease;
+}
+
+#admin_create_template button:hover {
+  background-color: #efb801;
+}
+
+/* CSS for template * start mark */
+
+#admin_create_template_red {
+  color: red;
+}
+
+/* CSS for template rating button */
+
+#admin_create_template_rating #admin_create_template_rating_quantity_div {
+  display: flex;
+  gap: 5px;
+}
+
+#admin_create_template_rating
+  #admin_create_template_rating_quantity_div
+  button {
+  width: 40px;
+  height: 30px;
+  padding: 0px;
+}
+
+/* CSS for template preview */
+
+#admin_create_template_preview {
+  background-color: white;
+  padding: 2%;
+  border-radius: 10px;
+  position: absolute;
+  top: 15%;
+  left: 55%;
+  width: 40%;
+  height: 650px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+}
+
+#admin_create_template_preview #admin_create_template_preview_topsection {
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+}
+
+#admin_create_template_preview_midsection_hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  height: 3px;
+  background-color: #00bf6f;
+}
+
+/**************  CSS to preview section *************/
+
+#admin_create_template_preview_botsection label {
+  border: 1px solid transparent;
+  word-break: break-word;
+}
+
+#admin_create_template_preview_botsection p {
+  word-break: break-word;
+}
+
+#admin_create_template_preview_botsection input {
+  outline: none;
+}
+
+#admin_create_template_preview_botsection > div {
+  margin-bottom: 40px;
+}
+
+/**************  CSS to preview MCQ *************/
+
+#admin_create_template_preview_botsection .mcq {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 15px;
+  column-gap: 10px;
+}
+
+#admin_create_template_preview_botsection .mcq label > input[type="radio"] {
+  margin-right: 5px;
+}
+
+#admin_create_template_preview_botsection .mcq label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  padding: 10px 10px;
+}
+
+#admin_create_template_preview_botsection .mcq label:hover {
+  border: 1px solid;
+  border-style: dashed;
+  border-radius: 5px;
+}
+
+/**************  CSS to preview checkbox *************/
+
+#admin_create_template_preview_botsection .checkbox {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 15px;
+  column-gap: 10px;
+}
+
+#admin_create_template_preview_botsection
+  .checkbox
+  label
+  > input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+#admin_create_template_preview_botsection .checkbox label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  padding: 10px 10px;
+}
+
+#admin_create_template_preview_botsection .checkbox label:hover {
+  border: 1px solid;
+  border-style: dashed;
+  border-radius: 5px;
+}
+
+/**************  CSS to preview rating *************/
+
+#admin_create_template_preview_botsection .rating .ratingEnglish {
+  width: 80%;
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#admin_create_template_preview_botsection .rating .ratingBtn {
+  width: 80%;
+}
+
+#admin_create_template_preview_botsection .rating .ratingBtn button {
+  border: 1px solid;
+  border-color: #00bf6f;
+  cursor: pointer;
+  padding: 10px 16px;
+  font-weight: bold;
+  outline: none;
+}
+
+#admin_create_template_preview_botsection .rating .ratingBtn button:hover {
+  color: white;
+  background-color: #333e48;
+}
+
+#admin_create_template_preview_botsection
+  .rating
+  .ratingBtn
+  button:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+#admin_create_template_preview_botsection .rating .ratingBtn button:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+/**************  CSS to preview textbox *************/
+
+#admin_create_template_preview_botsection .textbox {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#admin_create_template_preview_botsection .textbox textarea {
+  width: 90%;
+  padding: 10px;
+  resize: vertical;
+  border-radius: 5px;
+  outline: none;
+  border-color: none;
+  box-shadow: none;
+}
+
+/* Media Query for Mobile Devices */
+
+@media (max-width: 480px) {
+  /* CSS for overall template */
+
+  #admin_create_template {
+    width: 100%;
+    margin-bottom: 750px;
+  }
+
+  /* CSS for overall template buttons */
+
+  #admin_create_template button {
+    width: 50%;
+  }
+
+  /* CSS for template preview */
+
+  #admin_create_template_preview {
+    position: absolute;
+    top: 275%;
+    left: 5%;
+    width: 90%;
+    height: 650px;
+    overflow: auto;
+    overflow-wrap: break-word;
+  }
+
+  #admin_create_template_preview #admin_create_template_preview_topsection {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: space-between;
+    font-size: large;
+  }
+
+  /* CSS for preview rating button */
+
+  #admin_create_template_preview_botsection .rating .ratingEnglish {
+    width: 95%;
+  }
+
+  #admin_create_template_preview_botsection .rating .ratingBtn {
+    width: 95%;
+  }
+
+  #admin_create_template_preview_botsection .rating .ratingBtn button {
+    padding: 10px;
+  }
+}
+
+/* Media Query for Tablets, Ipads */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* CSS for overall template */
+
+  #admin_create_template {
+    width: 50%;
+  }
+
+  /* CSS for overall template buttons */
+
+  #admin_create_template button {
+    width: 60%;
+  }
+
+  #admin_create_template_preview #admin_create_template_preview_topsection {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: space-between;
+    font-size: large;
+  }
+
+  /* CSS for preview rating button */
+
+  #admin_create_template_preview_botsection .rating .ratingEnglish {
+    width: 95%;
+  }
+
+  #admin_create_template_preview_botsection .rating .ratingBtn {
+    width: 95%;
+  }
+
+  #admin_create_template_preview_botsection .rating .ratingBtn button {
+    padding: 8px;
+  }
+}

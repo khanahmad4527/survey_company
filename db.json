@@ -1,0 +1,2202 @@
+{
+  "template": [
+    {
+      "id": "1",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/customer_satisfaction_template_revised9a22c986d47780cf6b9a.jpg",
+      "title": "Customer Satisfaction Survey Template",
+      "type": "customer",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this company to a friend or colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Overall, how satisfied or dissatisfied are you with our company?",
+          "answer": [
+            "Very satisfied",
+            "Somewhat satisfied",
+            "Neither satisfied nor dissatisfied",
+            "Somewhat dissatisfied",
+            "Very dissatisfied"
+          ]
+        },
+        {
+          "questionType": "checkbox",
+          "question": "Which of the following words would you use to describe our products? Select all that apply.",
+          "answer": [
+            "Reliable",
+            "High quality",
+            "Useful",
+            "Unique",
+            "Good value for money",
+            "Overpriced",
+            "Impractical",
+            "Ineffective",
+            "Poor quality",
+            "Unreliable"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well do our products meet your needs?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you rate the quality of the product?",
+          "answer": [
+            "Very high quality",
+            "High quality",
+            "Neither high nor low quality",
+            "Low quality",
+            "Very low quality"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you rate the value for money of the product?",
+          "answer": [
+            "Excellent",
+            "Above average",
+            "Average",
+            "Below average",
+            "Poor"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How responsive have we been to your questions about our services?",
+          "answer": [
+            "Extremely responsive",
+            "Very responsive",
+            "Somewhat responsive",
+            "Not so responsive",
+            "Not at all responsive",
+            "Not applicable"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How long have you been a customer of our company?",
+          "answer": [
+            "This is my first purchase",
+            "Less than six months",
+            "Six months to a year",
+            "1 - 2 years",
+            "3 or more years",
+            "I haven't made a purchase yet"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How likely are you to purchase any of our products again?",
+          "answer": [
+            "Extremely likely",
+            "Very likely",
+            "Somewhat likely",
+            "Not so likely",
+            "Not at all likely"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments, questions, or concerns?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/customer_service_templatefb97957ff1ec5571a1f4.jpg",
+      "title": "Customer Service Template",
+      "type": "customer",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "Overall, how would you rate the quality of your customer service experience?",
+          "answer": [
+            "Very positive",
+            "Somewhat positive",
+            "Neutral",
+            "Somewhat negative",
+            "Very negative"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well did we understand your questions and concerns?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much time did it take us to address your questions and concerns?",
+          "answer": [
+            "Much shorter than expected",
+            "Shorter than expected",
+            "About what I expected",
+            "Longer than expected",
+            "Much longer than expected"
+          ]
+        },
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this company to a friend or colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/website_feedback_template4fe658d06cef2f16dc40.jpg",
+      "title": "Website Feedback Template",
+      "type": "customer",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "Overall, how well does our website meet your needs?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy was it to find what you were looking for on our website?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Did it take you more or less time than you expected to find what you were looking for on our website?",
+          "answer": [
+            "A lot less time",
+            "A little less time",
+            "About what I expected",
+            "A little more time",
+            "A lot more time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How visually appealing is our website?",
+          "answer": [
+            "Extremely appealing",
+            "Somewhat appealing",
+            "About what I expected",
+            "Not so appealing",
+            "Not at all appealing"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy is it to understand the information on our website?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much do you trust the information on our website?",
+          "answer": [
+            "A great deal",
+            "A lot",
+            "A moderate amount",
+            "A little",
+            "Not at all"
+          ]
+        },
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend our website to a friend or colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments about how we can improve our website?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/net_promoter_score_templatef93aba7c42ca4a6fec4c.jpg",
+      "title": "Net Promoter® Score (NPS) Template",
+      "type": "customer",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this company to a friend or colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments about how we can improve our company?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/software_evaluation_template586e5c41db412eebe512.jpg",
+      "title": "Software Evaluation Template",
+      "type": "customer",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this software to a friend or colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Overall, how satisfied or dissatisfied are you with our software?",
+          "answer": [
+            "Very satisfied",
+            "Somewhat satisfied",
+            "Neither satisfied nor dissatisfied",
+            "Somewhat dissatisfied",
+            "Very dissatisfied"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well do our software meet your needs?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you rate the quality of the software?",
+          "answer": [
+            "Very high quality",
+            "High quality",
+            "Neither high nor low quality",
+            "Low quality",
+            "Very low quality"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you rate the value for money of the software?",
+          "answer": [
+            "Excellent",
+            "Above average",
+            "Average",
+            "Below average",
+            "Poor"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How responsive have we been to your questions about our services?",
+          "answer": [
+            "Extremely responsive",
+            "Very responsive",
+            "Somewhat responsive",
+            "Not so responsive",
+            "Not at all responsive",
+            "Not applicable"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How long have you been a customer of our company?",
+          "answer": [
+            "This is my first purchase",
+            "Less than six months",
+            "Six months to a year",
+            "1 - 2 years",
+            "3 or more years",
+            "I haven't made a purchase yet"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How likely are you to purchase any of our software again?",
+          "answer": [
+            "Extremely likely",
+            "Very likely",
+            "Somewhat likely",
+            "Not so likely",
+            "Not at all likely"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments, questions, or concerns?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/university_student_satisfaction_template185f04fb0e3976e37fed.jpg",
+      "title": "University Student Satisfaction Template",
+      "type": "education",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How well do the professors teach at this university?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How effective is the teaching outside your major at this university?",
+          "answer": [
+            "Extremely effective",
+            "Very effective",
+            "Somewhat effective",
+            "Not so effective",
+            "Not at all effective"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well-maintained are the facilities at this university?",
+          "answer": [
+            "Extremely well-maintained",
+            "Very well-maintained",
+            "Somewhat well-maintained",
+            "Not so well-maintained",
+            "Not at all well-maintained"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How helpful is your academic advisor?",
+          "answer": [
+            "Extremely helpful",
+            "Very helpful",
+            "Somewhat helpful",
+            "Not so helpful",
+            "Not at all helpful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy is it to register for courses at this university?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How safe do you feel on campus?",
+          "answer": [
+            "Extremely safe",
+            "Very safe",
+            "Somewhat safe",
+            "Not so safe",
+            "Not at all safe"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How helpful is the staff at the on-campus health center?",
+          "answer": [
+            "Extremely helpful",
+            "Very helpful",
+            "Somewhat helpful",
+            "Not so helpful",
+            "Not at all helpful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How useful are the services provided by the on-campus career center?",
+          "answer": [
+            "Extremely useful",
+            "Very useful",
+            "Somewhat useful",
+            "Not so useful",
+            "Not at all useful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy is it to obtain the resources you need from the university library system?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How healthy is the food served at this university?",
+          "answer": [
+            "Extremely healthy",
+            "Very healthy",
+            "Somewhat healthy",
+            "Not so healthy",
+            "Not at all healthy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How crowded are the dormitory facilities at this university?",
+          "answer": [
+            "Extremely crowded",
+            "Very crowded",
+            "Somewhat crowded",
+            "Not so crowded",
+            "Not at all crowded"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How happy are you with the choice of university-sponsored extracurricular activities at this university?",
+          "answer": [
+            "Extremely happy",
+            "Very happy",
+            "Somewhat happy",
+            "Not so happy",
+            "Not at all happy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How satisfied are you with the policies that this university sets?",
+          "answer": [
+            "Extremely satisfied",
+            "Very satisfied",
+            "Somewhat satisfied",
+            "Not so satisfied",
+            "Not at all satisfied"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How likely are you to continue attending this university next year?",
+          "answer": [
+            "Extremely likely",
+            "Very likely",
+            "Somewhat likely",
+            "Not so likely",
+            "Not at all likely"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/k12_parent_feedback_template84720148ff68e9f0baee.jpg",
+      "title": "K-12 Parent Survey",
+      "type": "education",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How often do you meet in person with teachers at your child's school?",
+          "answer": [
+            "Almost never",
+            "Once or twice per year",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you that you can help your child develop good friendships?",
+          "answer": [
+            "Not confident at all",
+            "Slightly confident",
+            "Somewhat confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much effort do you put into helping your child learn to do things for himself/herself?",
+          "answer": [
+            "Almost no effort",
+            "A little bit of effort",
+            "Some effort",
+            "Quite a bit of effort",
+            "A tremendous amount of effort"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "In the past year, how often have you discussed your child's school with other parents from the school?",
+          "answer": [
+            "Almost never",
+            "Once or twice",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you help your child understand the content he or she is learning in school?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "In the past year, how often have you helped out at your child's school?",
+          "answer": [
+            "Almost never",
+            "Once or twice",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you help your child engage in activities which are educational outside the home?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you in your ability to make sure your child's school meets your child's learning needs?",
+          "answer": [
+            "Not confident at all",
+            "Somewhat confident",
+            "Slightly confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "In the past year, how often have you visited your child's school?",
+          "answer": [
+            "Almost never",
+            "Once or twice",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you and your child talk when he or she is having a problem with others?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you in your ability to support your child's learning at home?",
+          "answer": [
+            "Not confident at all",
+            "Slightly confident",
+            "Somewhat confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "To what extent do you know how your child is doing socially at school?",
+          "answer": [
+            "Not at all",
+            "A little bit",
+            "Somewhat",
+            "Quite a bit",
+            "A tremendous amount"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you in your ability to help your child deal with his or her emotions appropriately?",
+          "answer": [
+            "Not confident at all",
+            "Slightly confident",
+            "Somewhat confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any comments about any of your answers to the questions in this section?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/harvard_k_12_parent_survey36a5439acc13a43e6c58.jpg",
+      "title": "Harvard Grad. School of Ed. Pre K-12 Parent Survey",
+      "type": "education",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How often do you meet in person with teachers at your child's school?",
+          "answer": [
+            "Almost never",
+            "Once or twice per year",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you that you can help your child develop good friendships?",
+          "answer": [
+            "Not confident at all",
+            "Slightly confident",
+            "Somewhat confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much effort do you put into helping your child learn to do things for himself/herself?",
+          "answer": [
+            "Almost no effort",
+            "A little bit of effort",
+            "Some effort",
+            "Quite a bit of effort",
+            "A tremendous amount of effort"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "In the past year, how often have you discussed your child's school with other parents from the school?",
+          "answer": [
+            "Almost never",
+            "Once or twice",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you help your child understand the content he or she is learning in school?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "In the past year, how often have you helped out at your child's school?",
+          "answer": [
+            "Almost never",
+            "Once or twice",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you help your child engage in activities which are educational outside the home?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you in your ability to make sure your child's school meets your child's learning needs?",
+          "answer": [
+            "Not confident at all",
+            "Somewhat confident",
+            "Slightly confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "In the past year, how often have you visited your child's school?",
+          "answer": [
+            "Almost never",
+            "Once or twice",
+            "Every few months",
+            "Monthly",
+            "Weekly or more"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you and your child talk when he or she is having a problem with others?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you in your ability to support your child's learning at home?",
+          "answer": [
+            "Not confident at all",
+            "Slightly confident",
+            "Somewhat confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "To what extent do you know how your child is doing socially at school?",
+          "answer": [
+            "Not at all",
+            "A little bit",
+            "Somewhat",
+            "Quite a bit",
+            "A tremendous amount"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How confident are you in your ability to help your child deal with his or her emotions appropriately?",
+          "answer": [
+            "Not confident at all",
+            "Slightly confident",
+            "Somewhat confident",
+            "Quite confident",
+            "Extremely confident"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any comments about any of your answers to the questions in this section?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/k_through_12_distance_learning_templateb41a5c93e3483d5b10f0.jpg",
+      "title": "Learning Support Template",
+      "type": "education",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How often do you have conversations with your child about what his or her class is learning at school?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much effort do you put into helping your child learn to do things for himself/herself?",
+          "answer": [
+            "Almost no effort",
+            "A little bit of effort",
+            "Some effort",
+            "Quite a bit of effort",
+            "A tremendous amount of effort"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you help your child understand the content he or she is learning in school?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "To what extent do you set limits for your child's Internet/TV use?",
+          "answer": [
+            "Not at all",
+            "A little bit",
+            "Somewhat",
+            "Quite a bit",
+            "A tremendous amount"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do you help your child engage in activities which are educational outside the home?",
+          "answer": [
+            "Almost never",
+            "Once in a while",
+            "Sometimes",
+            "Frequently",
+            "Almost all the time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/k12_teacher_feedback_template55f249d709ef750d6c99.jpg",
+      "title": "K-12 Teacher Feedback Template",
+      "type": "education",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How easy is it to get the resources you need to teach at this school?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How safe do you feel teaching at this school?",
+          "answer": [
+            "Extremely safe",
+            "Very safe",
+            "Somewhat safe",
+            "Not so safe",
+            "Not at all safe"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often do parents pressure you to change their children's grades?",
+          "answer": [
+            "Extremely often",
+            "Very often",
+            "Somewhat often",
+            "Not so often",
+            "Not at all often"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How useful is the feedback the principal at this school gives you?",
+          "answer": [
+            "Extremely useful",
+            "Very useful",
+            "Somehwat useful",
+            "Not so useful",
+            "Not at all useful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much support does the administration at this school give to the teaching staff?",
+          "answer": [
+            "Much too much",
+            "Too much",
+            "The right amount",
+            "Too little",
+            "Much too little"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much support do the parents with children at this school give to the teaching staff?",
+          "answer": [
+            "Much too much",
+            "Too Much",
+            "The right amount",
+            "Too little",
+            "Much too little"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How much support do you feel the parents of your students give you?",
+          "answer": [
+            "A great deal of support",
+            "A lot of support",
+            "A moderate amount of support",
+            "A little support",
+            "Not any support at all"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How reasonable are the expectations for student achievement at this school?",
+          "answer": [
+            "Extremely reasonable",
+            "Very reasonable",
+            "Somewhat reasonable",
+            "Not so reasonable",
+            "Not at all reasonable"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Does this school give too much attention to standardized tests, too little attention to them, or about the right amount of attention to them?",
+          "answer": [
+            "Much too much",
+            "Too much",
+            "The right amount",
+            "Too little",
+            "Much too little"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well do teachers at this school collaborate with each other?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/employee_benefits_template_2363b7cf0f7af4d163a4a.jpg",
+      "title": "Employee Exit Template",
+      "type": "employees",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How effectively did you feel your skills were put to use here?",
+          "answer": [
+            "Extremely effectively",
+            "Very effectively",
+            "Somewhat effectively",
+            "Not so effectively",
+            "Not at all effectively"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy was it to get the resources you needed to do your job well at this company?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How helpful was your position here in stimulating your professional growth?",
+          "answer": [
+            "Extremely helpful",
+            "Very helpful",
+            "Somewhat helpful",
+            "Not so helpful",
+            "Not at all helpful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well were you paid for the work you did at this company?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Overall, how fairly were you treated?",
+          "answer": [
+            "Extremely fairly",
+            "Very fairly",
+            "Somewhat fairly",
+            "Not so fairly",
+            "Not at all fairly"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often did you feel your contributions were recognized?",
+          "answer": [
+            "Always",
+            "Most of the time",
+            "About half the time",
+            "Once in a while",
+            "Never"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How clear were the expectations that were set for you?",
+          "answer": [
+            "Extremely clear",
+            "Very clear",
+            "Somewhat clear",
+            "Not so clear",
+            "Not at all clear"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How realistic were the expectations that were set for you?",
+          "answer": [
+            "Extremely realistic",
+            "Very realistic",
+            "Somewhat realistic",
+            "Not so realistic",
+            "Not at all realistic"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How reasonable were the decisions made by your supervisor?",
+          "answer": [
+            "Extremely reasonable",
+            "Very reasonable",
+            "Somewhat reasonable",
+            "Not so reasonable",
+            "Not at all reasonable"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often did your supervisor listen to employees' opinions when making decisions?",
+          "answer": [
+            "Extremely often",
+            "Very often",
+            "Somewhat often",
+            "Not so often",
+            "Not at all often"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "What are your reasons for leaving this company?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "What actions can your employer take to build a better workplace?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments, questions, or concerns?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/employee_performance_template600ae2e5c1f89b3d5e58.jpg",
+      "title": "Employee Performance Template",
+      "type": "employees",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this employee to a colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How good is the quality of this employee’s work?",
+          "answer": [
+            "Extremely good",
+            "Very good",
+            "Somewhat good",
+            "Not so good",
+            "Not at all good"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How productive is this employee?",
+          "answer": [
+            "Extremely productive",
+            "Very productive",
+            "Somewhat productive",
+            "Not so productive",
+            "Not at all productive"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee work with others?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee solve problems independently?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How proactive is this employee?",
+          "answer": [
+            "Extremely proactive",
+            "Very proactive",
+            "Somewhat proactive",
+            "Not so proactive",
+            "Not at all proactive"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee handle criticism of their work?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee adjust to changing priorities?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Please list any areas where this employee is doing particularly well.",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Please list any areas for improvement for this employee.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/shrm_employee_engagement_survey_templatebdf84c922279b2feb2fb.jpg",
+      "title": "Employee Engagement Survey Template",
+      "type": "employees",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this employee to a colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How good is the quality of this employee’s work?",
+          "answer": [
+            "Extremely good",
+            "Very good",
+            "Somewhat good",
+            "Not so good",
+            "Not at all good"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How productive is this employee?",
+          "answer": [
+            "Extremely productive",
+            "Very productive",
+            "Somewhat productive",
+            "Not so productive",
+            "Not at all productive"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee work with others?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee solve problems independently?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How proactive is this employee?",
+          "answer": [
+            "Extremely proactive",
+            "Very proactive",
+            "Somewhat proactive",
+            "Not so proactive",
+            "Not at all proactive"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee handle criticism of their work?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee adjust to changing priorities?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Please list any areas where this employee is doing particularly well.",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Please list any areas for improvement for this employee.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/360degree_employee_evaluation_templatea1e3e728ea75a1c11a6e.jpg",
+      "title": "360-degree Employee Evaluation Template",
+      "type": "employees",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How effectively did you feel your skills were put to use here?",
+          "answer": [
+            "Extremely effectively",
+            "Very effectively",
+            "Somewhat effectively",
+            "Not so effectively",
+            "Not at all effectively"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy was it to get the resources you needed to do your job well at this company?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How helpful was your position here in stimulating your professional growth?",
+          "answer": [
+            "Extremely helpful",
+            "Very helpful",
+            "Somewhat helpful",
+            "Not so helpful",
+            "Not at all helpful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well were you paid for the work you did at this company?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Overall, how fairly were you treated?",
+          "answer": [
+            "Extremely fairly",
+            "Very fairly",
+            "Somewhat fairly",
+            "Not so fairly",
+            "Not at all fairly"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often did you feel your contributions were recognized?",
+          "answer": [
+            "Always",
+            "Most of the time",
+            "About half the time",
+            "Once in a while",
+            "Never"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How clear were the expectations that were set for you?",
+          "answer": [
+            "Extremely clear",
+            "Very clear",
+            "Somewhat clear",
+            "Not so clear",
+            "Not at all clear"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How realistic were the expectations that were set for you?",
+          "answer": [
+            "Extremely realistic",
+            "Very realistic",
+            "Somewhat realistic",
+            "Not so realistic",
+            "Not at all realistic"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How reasonable were the decisions made by your supervisor?",
+          "answer": [
+            "Extremely reasonable",
+            "Very reasonable",
+            "Somewhat reasonable",
+            "Not so reasonable",
+            "Not at all reasonable"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How often did your supervisor listen to employees' opinions when making decisions?",
+          "answer": [
+            "Extremely often",
+            "Very often",
+            "Somewhat often",
+            "Not so often",
+            "Not at all often"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "What are your reasons for leaving this company?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "What actions can your employer take to build a better workplace?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments, questions, or concerns?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/team_performance_template169ac99cca2c574abc4b.jpg",
+      "title": "Team Performance Template",
+      "type": "employees",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend this employee to a colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How good is the quality of this employee’s work?",
+          "answer": [
+            "Extremely good",
+            "Very good",
+            "Somewhat good",
+            "Not so good",
+            "Not at all good"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How productive is this employee?",
+          "answer": [
+            "Extremely productive",
+            "Very productive",
+            "Somewhat productive",
+            "Not so productive",
+            "Not at all productive"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee work with others?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee solve problems independently?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How proactive is this employee?",
+          "answer": [
+            "Extremely proactive",
+            "Very proactive",
+            "Somewhat proactive",
+            "Not so proactive",
+            "Not at all proactive"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee handle criticism of their work?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How well does this employee adjust to changing priorities?",
+          "answer": [
+            "Extremely well",
+            "Very well",
+            "Somewhat well",
+            "Not so well",
+            "Not at all well"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Please list any areas where this employee is doing particularly well.",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Please list any areas for improvement for this employee.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/event_feedback_eventbrite06da6ef7c7b115df68e1.jpg",
+      "title": "Post-event Feedback Survey",
+      "type": "events",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend the event to a friend or colleague?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How organized was the event?",
+          "answer": [
+            "Extremely organized",
+            "Very organized",
+            "Somewhat organized",
+            "Not so organized",
+            "Not at all organized"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How friendly was the staff at the event?",
+          "answer": [
+            "Extremely friendly",
+            "Very friendly",
+            "Somewhat friendly",
+            "Not so friendly",
+            "Not at all friendly"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How helpful was the staff at the event?",
+          "answer": [
+            "Extremely helpful",
+            "Very helpful",
+            "Somewhat helpful",
+            "Not so helpful",
+            "Not at all helpful"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Was the event length too long, too short or about right?",
+          "answer": [
+            "Too long",
+            "Too short",
+            "About right"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "What did you like about the event?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "What did you dislike about the event?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/neighborhood_events_template883dd311fab15f9e5b76.jpg",
+      "title": "Neighborhood Events Template",
+      "type": "events",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How often do you participate in activities in this neighborhood?",
+          "answer": [
+            "Extremely often",
+            "Very often",
+            "Somewhat often",
+            "Not very often",
+            "Not at all often"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "If you do not participate in activities in this neighborhood, why not?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "What types of activities would you participate in if they were available in this neighborhood?",
+          "answer": true
+        },
+        {
+          "questionType": "mcq",
+          "question": "Do you think there are too many neighborhood events, too few neighborhood events, or the right amount of neighborhood events?",
+          "answer": [
+            "Far too many",
+            "Too many",
+            "The right amount",
+            "Too few",
+            "Far too few"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/entertainment_event_feedback_template4e7deaeffb2f28db88c4.jpg",
+      "title": "Entertainment Event Feedback Template",
+      "type": "events",
+      "form": [
+        {
+          "questionType": "rating",
+          "question": "How likely is it that you would recommend the entertainment event to a friend or family member?",
+          "answer": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Overall, how would you rate the entertainment event?",
+          "answer": [
+            "Excellent",
+            "Very good",
+            "Good",
+            "Fair",
+            "Poor"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you rate the value for the money of the entertainment event?",
+          "answer": [
+            "Excellent",
+            "Very good",
+            "Good",
+            "Fair",
+            "Poor"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How unique was the event?",
+          "answer": [
+            "Extremely unique",
+            "Very unique",
+            "Somewhat unique",
+            "Not so unique",
+            "Not at all unique"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Do you think the entertainment event was too long, too short, or about right?",
+          "answer": [
+            "Far too long",
+            "Too long",
+            "About right",
+            "Too short",
+            "Far too short"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "What did you like about the entertainment event? What did you dislike about the entertainment event?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Is there anything else you’d like to share about the entertainment event?",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/pre_event_templatecfd44322ec4fb343c8ed.jpg",
+      "title": "Pre-Event Template",
+      "type": "events",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "How convenient or inconvenient is the date and time of the event for you?",
+          "answer": [
+            "Very convenient",
+            "Convenient",
+            "Neither convenient nor inconvenient",
+            "Inconvenient",
+            "Very inconvenient"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How convenient or inconvenient is the location of the event for you?",
+          "answer": [
+            "Very convenient",
+            "Convenient",
+            "Neither convenient nor inconvenient",
+            "Inconvenient",
+            "Very inconvenient"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How easy was the RSVP process?",
+          "answer": [
+            "Extremely easy",
+            "Very easy",
+            "Somewhat easy",
+            "Not so easy",
+            "Not at all easy"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "How likely are you to bring a friend to the event?",
+          "answer": [
+            "Extremely likely",
+            "Very likely",
+            "Somewhat likely",
+            "Not so likely",
+            "Not at all likely"
+          ]
+        },
+        {
+          "questionType": "mcq",
+          "question": "Will you be able to stay for the duration of the event?",
+          "answer": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any dietary restrictions?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any other comments, questions, or concerns?",
+          "answer": true
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you like to receive additional information about the event?",
+          "answer": [
+            "Phone call",
+            "Text",
+            "Email"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Include phone number or email address",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "image": "https://prod.smassets.net/assets/smweb/modern/coreweb/app/pages/CreateSurvey/StockImages/images/event_planning_template83422f0f22d6744ca330.jpg",
+      "title": "Event Planning Template",
+      "type": "events",
+      "form": [
+        {
+          "questionType": "mcq",
+          "question": "Will you be attending the event?",
+          "answer": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "If you will not be attending the event please explain why.",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "How did you hear about this event?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Do you have any dietary restrictions?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "What topics would you most like to learn about or discuss at this event?",
+          "answer": true
+        },
+        {
+          "questionType": "textbox",
+          "question": "Are there any questions you would like to be addressed at this event?",
+          "answer": true
+        },
+        {
+          "questionType": "mcq",
+          "question": "How would you like to receive additional information about the event?",
+          "answer": [
+            "Phone call",
+            "Text",
+            "Email"
+          ]
+        },
+        {
+          "questionType": "textbox",
+          "question": "Include phone number or email address",
+          "answer": true
+        }
+      ]
+    }
+  ],
+  "custom": [
+    {
+      "id": "1",
+      "image": "http://127.0.0.1:5500/images/Survey_Company.png",
+      "title": "This is new form",
+      "type": "customer"
+    },
+    {
+      "id": "2",
+      "image": "http://127.0.0.1:5500/images/Survey_Company.png",
+      "title": "This is education form",
+      "type": "education"
+    },
+    {
+      "id": "3",
+      "image": "http://127.0.0.1:5500/images/Survey_Company.png",
+      "title": "This is employees",
+      "type": "employees"
+    },
+    {
+      "id": "4",
+      "image": "http://127.0.0.1:5500/images/Survey_Company.png",
+      "title": "This is new form",
+      "type": "customer"
+    }
+  ],
+  "userlogin": [
+    {
+      "id": 1,
+      "email": "email id",
+      "password": "password"
+    }
+  ],
+  "adminlogin": [
+    {
+      "id": 1,
+      "email": "email id",
+      "password": "password"
+    }
+  ],
+  "adminsignin": [
+    {
+      "email": "321shivam3321@gmail.com",
+      "username": "shivam123",
+      "password": "123shiv",
+      "number": "235356",
+      "id": 1
+    },
+    {
+      "email": "123shivam1123@gmail.com",
+      "username": "123qwert",
+      "password": "123456",
+      "number": "123456789",
+      "id": 3
+    },
+    {
+      "email": "sfkshkljhnk@lj'll",
+      "username": "123shivamsingh",
+      "password": "12345678",
+      "number": "12345678",
+      "id": 4
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "32147896",
+      "id": 5
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "932145687",
+      "id": 6
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "9214567826",
+      "id": 7
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "79631456",
+      "id": 8
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123shiv",
+      "number": "321479658",
+      "id": 9
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "931452687",
+      "id": 10
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "9632147856",
+      "id": 11
+    },
+    {
+      "email": "chhotahathi06@gmail.com",
+      "username": "shivasunchu",
+      "password": "659856",
+      "number": "598663",
+      "id": 12
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "shivasunchu",
+      "password": "465232",
+      "number": "894653259",
+      "id": 13
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "963214785",
+      "id": 14
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "963214785",
+      "id": 15
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123shiv",
+      "password": "123sat",
+      "number": "963214785",
+      "id": 16
+    },
+    {
+      "email": "abc@gmail.com",
+      "username": "123SHIV",
+      "password": "123sat",
+      "number": "96347852",
+      "id": 17
+    },
+    {
+      "email": "chris.j.smith.0321@gmail.com",
+      "username": "csmith262",
+      "password": "1234",
+      "number": "1111111111111111111",
+      "id": 18
+    }
+  ],
+  "usersignin": [
+    {
+      "id": 303,
+      "name": "Pandey",
+      "phone": 32145684,
+      "email": "shiva@gmail.com",
+      "password": "632145"
+    },
+    {
+      "id": 456,
+      "name": "Gopal",
+      "phone": 96536841,
+      "email": "gopal@gmail.com",
+      "password": "789456"
+    },
+    {
+      "id": 971,
+      "name": "Nike",
+      "phone": 324569852,
+      "email": "abc@gmail.com",
+      "password": "321456"
+    },
+    {
+      "id": 633,
+      "name": "Chris smith",
+      "phone": 9730307021,
+      "email": "chris.j.smith.0321@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "submitdata": [
+    {
+      "title": "Title of the form",
+      "type": "Form type",
+      "form": "[Whole]"
+    }
+  ]
+}

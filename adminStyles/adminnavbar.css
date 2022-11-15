@@ -1,0 +1,221 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+#navbar {
+  background-color: white;
+  border: 0px solid;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#navbar > div {
+  border: 0px solid;
+  position: relative;
+}
+#navbar_content {
+  display: flex;
+  justify-content: space-around;
+}
+#navbar_content > p {
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 1px;
+  padding-top: 10px;
+  border: 0px solid green;
+  font-size: 30px;
+  font-weight: 550;
+  color: #007faa;
+}
+#navbar_img {
+  width: 10%;
+}
+#navbar_img > img {
+  display: block;
+  width: 60%;
+
+  margin-top: 10px;
+  border: 0px solid red;
+}
+#navbar_button {
+  /* display: flex; */
+}
+#navbar_button > button {
+  border: 3px solid;
+  /* display: block; */
+  font-size: 20px;
+  padding: 8px 16px;
+  margin-left: 10px;
+  margin-top: 38px;
+  border: none;
+  font-weight: 400;
+  border-radius: 5px;
+  background-color: rgb(237, 198, 69);
+}
+
+#navbar_append {
+  /* margin:auto; */
+  width: 50%;
+  position: absolute;
+  border: none;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  display: flex;
+  margin-left: 400px;
+  background-color: white;
+  z-index: 1000;
+}
+
+#navbar_append > div {
+  width: 40%;
+
+  margin: auto;
+}
+#navbar_append > #plan_div + div {
+  margin-top: 2px;
+}
+
+/* #navbar_append hr{
+      width:90%;
+      margin-left: 0px;
+  } */
+
+#navbar_hamberger {
+  display: none;
+}
+#ham_product > div > h3 {
+  font-size: 20px;
+  color: #007faa;
+}
+#ham_plan > div > h3 {
+  font-size: 20px;
+  color: #007faa;
+}
+
+#product_div > h3 {
+  color: #00bf6f;
+}
+#product_div + div > h3 {
+  color: #00bf6f;
+}
+
+@media all and (max-width: 990px) and (min-width: 767px) {
+  #navbar {
+    position: relative;
+  }
+  #navbar_content {
+    display: none;
+  }
+  #navbar_hamberger {
+    display: block;
+  }
+  #ham_div {
+    position: absolute;
+    width: 70%;
+    margin-top: 0px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+      rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 10px 20px;
+    background-color: white;
+    height: 90vh;
+    overflow: scroll;
+    z-index: 1000;
+  }
+  #ham_div > div > div:first-child {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #siginin_button {
+    display: none;
+  }
+
+  #navbar_button > button {
+    margin-top: 14px;
+    font-size: 15px;
+  }
+  #product_div + div {
+    margin-top: 50px;
+  }
+}
+
+@media all and (max-width: 766px) {
+  #navbar {
+    position: relative;
+  }
+  #navbar_content {
+    display: none;
+  }
+  #navbar_hamberger {
+    display: block;
+  }
+  #navbar_button {
+    display: none;
+  }
+  #ham_div {
+    position: absolute;
+    width: 70%;
+    margin-top: 0px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+      rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 10px 20px;
+    background-color: white;
+    height: 100vh;
+    z-index: 1000;
+  }
+  #ham_div > div > div:first-child {
+    display: flex;
+    justify-content: space-between;
+  }
+  #siginin_button > button:first-child {
+    display: block;
+    padding: 4px 100px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #ffff;
+    border: 1px solid;
+  }
+  #siginin_button > button + button {
+    display: block;
+    padding: 4px 95px;
+    margin: auto;
+    margin-top: 20px;
+    border: none;
+    background-color: #00bf6f;
+  }
+}
+#admin-login {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(229, 233, 236, 0.15) 0px 2px 6px 2px;
+  width: 30%;
+  height: 40vh;
+
+  /* margin-top: 20px; */
+  border: 2px solid rgb(201, 198, 198);
+  /* margin-right: 20px; */
+  position: absolute;
+  background-color: white;
+  margin-left: 69%;
+  z-index: 10000;
+}
+#admin-login > button {
+  display: block;
+  margin: auto;
+  width: 70%;
+  background-color: #007faa;
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+  color: white;
+}
+#admin-login > h2 {
+  margin-left: 10px;
+  color: rgb(102, 105, 104);
+}
+#admin-login > h2 > .admin_login_details {
+  color: #007faa;
+}

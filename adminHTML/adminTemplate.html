@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Template</title>
+    <link rel="icon" type="image/x-icon" href="../images/Survey_Company.png">
+    <link rel="stylesheet" href="../adminStyles/adminTemplate.css">
+    <link rel="stylesheet" href="../adminStyles/adminnavbar.css" />
+    <link rel="stylesheet" href="../adminStyles/adminLanding.css" />
+    <script src="https://kit.fontawesome.com/24c494a6b6.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <div id="navbar"></div>
+
+    <div id="navbar_append"></div>
+
+    <div id="ham_div"></div>
+
+    <button class="bottom-top"><i class="fa-solid fa-angle-up"></i></button>
+    <div id="admin-login">
+        <h2>Email :- <span class="admin_login_details"></span></h2>
+        <hr>
+        <h2>Username :- <span class="admin_login_details"></span></h2>
+        <hr>
+        <h2>Phone-number:- <span class="admin_login_details"></span></h2>
+        <hr>
+        <button>Log out</button>
+
+
+    </div>
+    <div id="admin_create_template_body">
+
+        <div id="admin_create_template">
+
+            <h1 id="admin_create_template_heading">Create custom survey</h1>
+
+            <div id="admin_create_template_*">
+
+                <form id="admin_create_template_form" autocomplete="off">
+
+                    <h1>Specify the id <span id="admin_create_template_red">*</span></h1>
+
+                    <input type="text" placeholder="Enter a unique id" id="admin_create_template_id" required>
+
+                    <h1>Select the survey type <span id="admin_create_template_red">*</span></h1>
+
+                    <select id="admin_create_template_survey_type" required>
+                        <option value="">Select</option>
+                        <option value="customer">Customer</option>
+                        <option value="education">Education</option>
+                        <option value="employees">Employees</option>
+                        <option value="events">Events</option>
+                        <option value="healthcare">Healthcare</option>
+                        <option value="market research">Market Research</option>
+                        <option value="nonprofit">Nonprofit</option>
+                        <option value="other">Other</option>
+                    </select><br />
+
+                    <input type="url" placeholder="Enter the template image url" id="admin_create_template_image_url"
+                        required><br>
+
+                    <input type="text" placeholder="Enter the template name" id="admin_create_template_image_name"
+                        required><br>
+
+                    <button id="admin_create_add_template_button">Add the template</button>
+
+                </form>
+
+            </div>
+
+            <!-- MCQ section -->
+
+            <div id="admin_create_template_mcq">
+
+                <form id="admin_create_template_mcq_form" autocomplete="off">
+
+                    <h1>Add MCQ</h1>
+
+                    <textarea placeholder="Write the question to ask here" id="admin_create_template_mcq_question"
+                        required></textarea><br>
+
+                    <input type="number" placeholder="Write the number of option you want to give"
+                        id="admin_create_template_mcq_quantity" required />
+
+                    <div id="admin_create_template_mcq_quantity_div">
+                    </div>
+                    <br>
+                    <button id="admin_create_template_mcq_button">Add the question</button>
+
+                </form>
+
+            </div>
+
+            <!-- Checkbox section -->
+
+            <div id="admin_create_template_checkbox">
+
+                <form id="admin_create_template_checkbox_form" autocomplete="off">
+
+                    <h1>Add Checkbox</h1>
+
+                    <textarea placeholder="Write the question to ask here" id="admin_create_template_checkbox_question"
+                        required></textarea><br>
+
+                    <input type="number" placeholder="Write the number of checkbox you want to give"
+                        id="admin_create_template_checkbox_quantity" required />
+
+                    <div id="admin_create_template_checkbox_quantity_div">
+                    </div>
+                    <br>
+                    <button id="admin_create_template_checkbox_button">Add the question</button>
+
+                </form>
+
+            </div>
+
+            <!-- Rating section -->
+
+            <div id="admin_create_template_rating">
+
+                <form id="admin_create_template_rating_form" autocomplete="off">
+
+                    <h1>Add Rating</h1>
+
+                    <textarea placeholder="Write the question to ask here" id="admin_create_template_rating_question"
+                        required></textarea><br>
+
+                    <input type="number" placeholder="Write the number of rating you want to give"
+                        id="admin_create_template_rating_quantity" required />
+
+                    <div id="admin_create_template_rating_quantity_div">
+                    </div>
+                    <br>
+                    <button id="admin_create_template_rating_button">Add the question</button>
+
+                </form>
+
+            </div>
+
+            <!-- Textbox section -->
+
+            <div id="admin_create_template_textbox">
+
+                <form id="admin_create_template_textbox_form" autocomplete="off">
+
+                    <h1>Add Textbox</span></h1>
+
+                    <textarea placeholder="Write the question to ask here" id="admin_create_template_textbox_question"
+                        required></textarea><br />
+
+                    <textarea disabled id="" placeholder="Don't write here it's just for visuals"></textarea>
+                    <br>
+                    <button id="admin_create_template_textbox_button">Add the question</button>
+
+                </form>
+
+            </div>
+
+            <div id="admin_create_template_addform">
+
+                <button id="admin_create_template_addquestiontoserver_button">Add the form</button>
+
+            </div>
+
+        </div>
+
+        <!----------------            Template preview            ------------------>
+
+        <div id="admin_create_template_preview">
+
+            <div id="admin_create_template_preview_topsection">
+
+                <div id="admin_create_template_preview_topsection_questioncount">
+                    Total question: <span id="admin_create_template_preview_topsection_questioncount_span">0</span>
+                </div>
+
+                <div id="admin_create_template_preview_topsection_category">
+                    Survey type: <span id="admin_create_template_preview_topsection_category_span"
+                        style="text-transform: capitalize;">None</span>
+                </div>
+
+            </div>
+
+            <hr id="admin_create_template_preview_midsection_hr">
+
+            <div id="admin_create_template_preview_botsection">
+                <!-- form data will come here -->
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+
+<script type="module" src="../adminSrc/adminTemplate.js"></script>
