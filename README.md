@@ -33,9 +33,26 @@ Thank you for choosing Survey Monkey for your survey needs. We hope you find our
 ```bash
 https://github.com/khanahmad4527/survey_company.git
 ```
+2. Install The json-server
+
+```bash
+npm install -g json-server
+```
+3. Run json-server
+
+```bash
+json-server --watch db.json
+```
+
 ## Usage
 - Create an account and log in
 - Create a new survey
 - Customize the survey with your questions and options
 - Share the survey link with your audience
 - Analyze the collected data
+
+## Screenshots
+
+## Screenshots
+
+![Main Page](https://i.ibb.co/jyPjqFV/Screenshot-342.png)
