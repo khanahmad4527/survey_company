@@ -61,8 +61,9 @@ json-server --watch db.json
 ## Screenshots
 
 
-### Main Page
+
 <div align="center">
+  ### Main Page
   <img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" width="800">
 </div>
 
