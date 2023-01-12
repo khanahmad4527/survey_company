@@ -62,7 +62,10 @@ json-server --watch db.json
 
 ![Main Page](https://i.ibb.co/jyPjqFV/Screenshot-342.png)
 
-<img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" align="center" width="800">
+<div align="center">
+  <img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" width="800">
+</div>
+
 
 ![Plan](https://i.ibb.co/1ZfDbFj/Screenshot-343.png)
 
