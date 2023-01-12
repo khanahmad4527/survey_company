@@ -1,6 +1,6 @@
-# Project Title
+# Survey Company
 
-A clear and concise title that summarizes the purpose of the project.
+Survey Company is a clone of survey monkey which is a business to bussiness model
 
 ## Description
 
