@@ -71,6 +71,6 @@ json-server --watch db.json
 
 ![Add Custom Template](https://i.ibb.co/nRbJtkW/Screenshot-349.png)
 
-![Main Page]()
+![Mobile View](https://i.ibb.co/Qvd3r2v/IMG-20230112-180343.jpg)
 
-![Main Page]()
+![Mobile View](https://i.ibb.co/31H4jDL/IMG-20230112-180328.jpg)
