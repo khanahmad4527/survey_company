@@ -65,7 +65,7 @@ json-server --watch db.json
 
 ![Survey Page](https://i.ibb.co/0G1g97f/Screenshot-346.png)
 
-![Add Custom Template1](https://i.ibb.co/nzc9yJn/Screenshot-347.png)
+![Add Custom Template]()
 
 ![Add Custom Template](https://i.ibb.co/kDyLKFT/Screenshot-348.png)
 
@@ -78,4 +78,4 @@ json-server --watch db.json
 
 ## Demo
 
-![Demo Link](https://roaring-cendol-2586db.netlify.app/userhtml/userlanding)
+[link_text](https://roaring-cendol-2586db.netlify.app/userhtml/userlanding)
