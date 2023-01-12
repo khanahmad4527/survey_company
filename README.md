@@ -66,24 +66,44 @@ json-server --watch db.json
 </div>
 
 <div align="center">
-  <h3>Home Page</h3>
+  <h3>Plans</h3>
   <img src="https://i.ibb.co/1ZfDbFj/Screenshot-343.png" width="800">
 </div>
 
-![Template](https://i.ibb.co/yW3YQq8/Screenshot-344.png)
+<div align="center">
+  <h3>Template</h3>
+  <img src="https://i.ibb.co/yW3YQq8/Screenshot-344.png" width="800">
+</div>
 
-![Survey Page](https://i.ibb.co/gZwpF5z/Screenshot-345.png)
+<div align="center">
+  <h3>Survey Page</h3>
+  <img src="https://i.ibb.co/gZwpF5z/Screenshot-345.png" width="800">
+</div>
 
-![Survey Page](https://i.ibb.co/0G1g97f/Screenshot-346.png)
+<div align="center">
+  <h3>Survey Page</h3>
+  <img src="https://i.ibb.co/0G1g97f/Screenshot-346.png" width="800">
+</div>
 
-![Add Custom Template](https://i.ibb.co/kDyLKFT/Screenshot-348.png)
+<div align="center">
+  <h3>Add Custom Template</h3>
+  <img src="https://i.ibb.co/kDyLKFT/Screenshot-348.png" width="800">
+</div>
 
-![Add Custom Template](https://i.ibb.co/nRbJtkW/Screenshot-349.png)
+<div align="center">
+  <h3>Add Custom Template</h3>
+  <img src="https://i.ibb.co/nRbJtkW/Screenshot-349.png" width="800">
+</div>
 
-![Mobile View](https://i.ibb.co/Qvd3r2v/IMG-20230112-180343.jpg)
+<div align="center">
+  <h3>Mobile View</h3>
+  <img src="https://i.ibb.co/Qvd3r2v/IMG-20230112-180343.jpg" width="800">
+</div>
 
-![Mobile View](https://i.ibb.co/31H4jDL/IMG-20230112-180328.jpg)
-
+<div align="center">
+  <h3>Mobile View</h3>
+  <img src="https://i.ibb.co/31H4jDL/IMG-20230112-180328.jpg" width="800">
+</div>
 
 ## Demo
 
