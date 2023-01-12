@@ -6,7 +6,8 @@ Our user-friendly interface makes it easy to create and customize surveys, and w
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [A Collaborative Project](#a-collaborativeproject)
+- [Description](#description)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
@@ -16,7 +17,11 @@ Our user-friendly interface makes it easy to create and customize surveys, and w
 - [Team](#team)
 - [Disclaimer](#disclaimer)
 
-## Introduction
+# Survey Company - A Collaborative Project
+
+This project is a re-creation of the website "Survey Monkey" for educational purposes only. It is a collaborative effort developed by a team of 3 individuals who aim to learn and practice web development skills. We developed this project to enhance our knowledge in building a complete web application as a team, where we learn about the best practices for working in a collaborative environment, project management, and problem-solving.
+
+## Description
 
 Survey Company is an online platform that allows users to create and share surveys. It allows users to create surveys, invite participants, and view the results. The platform has a user-friendly interface and provides a variety of customization options for surveys.
 
