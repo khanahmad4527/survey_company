@@ -62,6 +62,8 @@ json-server --watch db.json
 
 ![Main Page](https://i.ibb.co/jyPjqFV/Screenshot-342.png)
 
+<img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" width="500">
+
 ![Plan](https://i.ibb.co/1ZfDbFj/Screenshot-343.png)
 
 ![Template](https://i.ibb.co/yW3YQq8/Screenshot-344.png)
@@ -86,8 +88,8 @@ Check out the demo <a href="https://roaring-cendol-2586db.netlify.app/userhtml/u
 ## Team
 
 - [Ahmad Khan](https://www.linkedin.com/in/khanahmad4527)
-- [Sunchu Shiva]
-- [Shivam Singh]
+- Sunchu Shiva
+- Shivam Singh
 
 ## Disclaimer
 
