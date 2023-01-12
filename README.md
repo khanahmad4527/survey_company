@@ -6,7 +6,7 @@ Our user-friendly interface makes it easy to create and customize surveys, and w
 
 ## Table of Contents
 
-- [A Collaborative Project](#survey-company-a-collaborative-project)
+- [A Collaborative Project](#survey-company---a-collaborative-project)
 - [Description](#description)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
