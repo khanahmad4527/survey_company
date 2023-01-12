@@ -30,4 +30,4 @@ Thank you for choosing Survey Monkey for your survey needs. We hope you find our
 
 1. Clone the repository
 ```bash
-https://github.com/khanahmad4527/survey_company.git
+git clone https://github.com/khanahmad4527/survey_company.git
