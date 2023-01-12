@@ -6,7 +6,7 @@ Our user-friendly interface makes it easy to create and customize surveys, and w
 
 ## Table of Contents
 
-- [A Collaborative Project](#a-collaborativeproject)
+- [A Collaborative Project](#a-collaborative-project)
 - [Description](#description)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
@@ -17,7 +17,7 @@ Our user-friendly interface makes it easy to create and customize surveys, and w
 - [Team](#team)
 - [Disclaimer](#disclaimer)
 
-# Survey Company - A Collaborative Project
+## Survey Company - A Collaborative Project
 
 This project is a re-creation of the website "Survey Monkey" for educational purposes only. It is a collaborative effort developed by a team of 3 individuals who aim to learn and practice web development skills. We developed this project to enhance our knowledge in building a complete web application as a team, where we learn about the best practices for working in a collaborative environment, project management, and problem-solving.
 
