@@ -7,17 +7,24 @@ Our user-friendly interface makes it easy to create and customize surveys, and w
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Demo](#demo)
+- [Team](#team)
 - [Disclaimer](#disclaimer)
-- [Contact](#contact)
 
 ## Introduction
 
-Thank you for choosing Survey Monkey for your survey needs. We hope you find our application useful and informative.
+Survey Company is an online platform that allows users to create and share surveys. It allows users to create surveys, invite participants, and view the results. The platform has a user-friendly interface and provides a variety of customization options for surveys.
+
+## Tech Stack
+- JavaScript
+- HTML
+- CSS
+- Json-server
 
 ## Features
 
@@ -78,15 +85,9 @@ Check out the demo <a href="https://roaring-cendol-2586db.netlify.app/userhtml/u
 
 ## Team
 
-- [John Doe](https://github.com/johndoe) - Team Lead, Front-end Development
-- [Jane Smith](https://github.com/janesmith) - Back-end Development
-- [Bob Johnson](https://github.com/bobjohnson) - Design and User Experience
-
-## Acknowledgments
-
-- Thanks to [Professor X](https://github.com/professorx) for providing guidance and support throughout the project.
-- Special thanks to [OpenAI](https://openai.com/) for providing the language model for this project
-- And to all the contributors who helped make this project a success.
+- [Ahmad Khan](https://www.linkedin.com/in/khanahmad4527)
+- [Sunchu Shiva]
+- [Shivam Singh]
 
 ## Disclaimer
 
