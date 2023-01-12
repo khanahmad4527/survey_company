@@ -122,4 +122,5 @@ Check out the demo <a href="https://roaring-cendol-2586db.netlify.app/userhtml/u
 
 ## Disclaimer
 
-> This project is a re-creation of the website "Survey Monkey" for educational purposes only and is not affiliated with or endorsed by the original website or its owners. The project was created solely for the purpose of learning and practicing web development skills and should not be used for any commercial or unauthorized purposes. All rights to the original website, including its trademark and intellectual property, belong to their respective owners.
+> 
+<span style="color:red">This project is a re-creation of the website "Survey Monkey" for educational purposes only and is not affiliated with or endorsed by the original website or its owners. The project was created solely for the purpose of learning and practicing web development skills and should not be used for any commercial or unauthorized purposes. All rights to the original website, including its trademark and intellectual property, belong to their respective owners.</span>
