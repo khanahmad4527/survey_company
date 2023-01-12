@@ -92,6 +92,11 @@ json-server --watch db.json
 
 <div align="center">
   <h3>Add Custom Template</h3>
+  <img src="https://i.ibb.co/vQqL0cF/Screenshot-347.png" width="800">
+</div>
+
+<div align="center">
+  <h3>Add Custom Template</h3>
   <img src="https://i.ibb.co/kDyLKFT/Screenshot-348.png" width="800">
 </div>
 
