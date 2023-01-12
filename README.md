@@ -74,4 +74,5 @@ json-server --watch db.json
 
 ## Demo
 
-Check out the demo <a href="[https://youtube.com/watch?v=12345](https://roaring-cendol-2586db.netlify.app/userhtml/userlanding)" target="_blank">here</a>
+Check out the demo <a href="https://roaring-cendol-2586db.netlify.app/userhtml/userlanding" target="_blank">here</a>
+
