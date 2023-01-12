@@ -63,7 +63,7 @@ json-server --watch db.json
 
 
 <div align="center">
-  <p>Main Page</p>
+  <h1>Main Page</h1>
   <img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" width="800">
 </div>
 
