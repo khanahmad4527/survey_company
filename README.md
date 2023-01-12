@@ -53,8 +53,6 @@ json-server --watch db.json
 
 ## Screenshots
 
-## Screenshots
-
 ![Main Page](https://i.ibb.co/jyPjqFV/Screenshot-342.png)
 
 ![Plan](https://i.ibb.co/1ZfDbFj/Screenshot-343.png)
@@ -65,7 +63,7 @@ json-server --watch db.json
 
 ![Survey Page](https://i.ibb.co/0G1g97f/Screenshot-346.png)
 
-![Add Custom Template]()
+![Add Custom Template](https://i.ibb.co/nzc9yJn/Screenshot-347.png)
 
 ![Add Custom Template](https://i.ibb.co/kDyLKFT/Screenshot-348.png)
 
@@ -78,4 +76,4 @@ json-server --watch db.json
 
 ## Demo
 
-[link_text](https://roaring-cendol-2586db.netlify.app/userhtml/userlanding)
+[Survey Company Demo Link](https://roaring-cendol-2586db.netlify.app/userhtml/userlanding)
