@@ -60,15 +60,15 @@ json-server --watch db.json
 
 ## Screenshots
 
-
-
 <div align="center">
-  <h3>Main Page</h3>
+  <h3>Home Page</h3>
   <img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" width="800">
 </div>
 
-
-![Plan](https://i.ibb.co/1ZfDbFj/Screenshot-343.png)
+<div align="center">
+  <h3>Home Page</h3>
+  <img src="https://i.ibb.co/1ZfDbFj/Screenshot-343.png" width="800">
+</div>
 
 ![Template](https://i.ibb.co/yW3YQq8/Screenshot-344.png)
 
