@@ -38,7 +38,7 @@ Survey Company is an online platform that allows users to create and share surve
 1. Clone the repository
 
 ```bash
-https://github.com/khanahmad4527/survey_company.git
+git clone https://github.com/khanahmad4527/survey_company.git
 ```
 2. Install The json-server
 
@@ -97,12 +97,12 @@ json-server --watch db.json
 
 <div align="center">
   <h3>Mobile View</h3>
-  <img src="https://i.ibb.co/Qvd3r2v/IMG-20230112-180343.jpg" width="800">
+  <img src="https://i.ibb.co/Qvd3r2v/IMG-20230112-180343.jpg" width="400">
 </div>
 
 <div align="center">
   <h3>Mobile View</h3>
-  <img src="https://i.ibb.co/31H4jDL/IMG-20230112-180328.jpg" width="800">
+  <img src="https://i.ibb.co/31H4jDL/IMG-20230112-180328.jpg" width="400">
 </div>
 
 ## Demo
