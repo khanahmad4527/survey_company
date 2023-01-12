@@ -60,8 +60,8 @@ json-server --watch db.json
 
 ## Screenshots
 
-![Main Page](https://i.ibb.co/jyPjqFV/Screenshot-342.png)
 
+### Main Page
 <div align="center">
   <img src="https://i.ibb.co/jyPjqFV/Screenshot-342.png" width="800">
 </div>
