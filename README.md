@@ -30,12 +30,4 @@ Thank you for choosing Survey Monkey for your survey needs. We hope you find our
 
 1. Clone the repository
 
-git clone https://github.com/khanahmad4527/survey_company.git
-
-## Usage
-
-Create an account and log in
-Create a new survey
-Customize the survey with your questions and options
-Share the survey link with your audience
-Analyze the collected data
+[git clone](https://github.com/khanahmad4527/survey_company.git)
