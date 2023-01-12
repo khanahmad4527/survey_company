@@ -1,8 +1,8 @@
-# Survey Monkey
+# Survey Company
 
-Welcome to Survey Monkey, a web application that allows you to easily create and conduct surveys. Whether you're a business owner looking to gather customer feedback, a researcher collecting data for a study, or just someone who wants to get opinions from friends and family, Survey Monkey is the perfect tool for you.
+Welcome to Survey Company, a web application that allows you to easily create and conduct surveys. Whether you're a business owner looking to gather customer feedback, a researcher collecting data for a study, or just someone who wants to get opinions from friends and family, Survey Company is the perfect tool for you.
 
-Our user-friendly interface makes it easy to create and customize surveys, and with our powerful analytics tools, you can quickly and easily analyze the data you collect. With Survey Monkey, you can gather valuable insights and make data-driven decisions in no time.
+Our user-friendly interface makes it easy to create and customize surveys, and with our powerful analytics tools, you can quickly and easily analyze the data you collect. With Survey Company, you can gather valuable insights and make data-driven decisions in no time.
 
 ## Table of Contents
 
