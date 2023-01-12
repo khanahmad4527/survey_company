@@ -76,3 +76,18 @@ json-server --watch db.json
 
 Check out the demo <a href="https://roaring-cendol-2586db.netlify.app/userhtml/userlanding" target="_blank">here</a>
 
+## Team
+
+- [John Doe](https://github.com/johndoe) - Team Lead, Front-end Development
+- [Jane Smith](https://github.com/janesmith) - Back-end Development
+- [Bob Johnson](https://github.com/bobjohnson) - Design and User Experience
+
+## Acknowledgments
+
+- Thanks to [Professor X](https://github.com/professorx) for providing guidance and support throughout the project.
+- Special thanks to [OpenAI](https://openai.com/) for providing the language model for this project
+- And to all the contributors who helped make this project a success.
+
+## Disclaimer
+
+> This project is a re-creation of the website "Survey Monkey" for educational purposes only and is not affiliated with or endorsed by the original website or its owners. The project was created solely for the purpose of learning and practicing web development skills and should not be used for any commercial or unauthorized purposes. All rights to the original website, including its trademark and intellectual property, belong to their respective owners.
